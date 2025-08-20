@@ -4,7 +4,6 @@
 [![Status](https://img.shields.io/badge/status-active-success)](https://github.com/AuronForge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/AuronForge?style=social)](https://github.com/AuronForge)
-[![GitHub forks](https://img.shields.io/github/forks/AuronForge?style=social)](https://github.com/AuronForge)
 
 ---
 

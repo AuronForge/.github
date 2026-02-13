@@ -26,10 +26,11 @@ Nosso foco é transformar ideias em realidade através de:
 **Forjar o futuro através da tecnologia**, conectando criatividade, inovação e engenharia para gerar soluções únicas e acessíveis.  
 
 ## 🚀 Roadmap
-- [✅] Publicação do site institucional  
-- [ ] Laboratorios: RFID, IoT, Wireless  
-- [ ] Tangerine Design System  
-- [ ] ForgeMind  
+- ✅ Publicação do site institucional  
+- ⏳ Tangerine Design System  
+- ⏳ ForgeMind  
+- ⬜ Laboratórios: RFID, IoT, Wireless  
+- ⬜ Cases
 
 ## 📬 Contato
 - 👤 **Fundador:** José Eduardo Trindade E Marques  

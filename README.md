@@ -2,7 +2,7 @@
 
 [![Made with Love](https://img.shields.io/badge/made%20with-love-red)](https://github.com/AuronForge)
 [![Status](https://img.shields.io/badge/status-active-success)](https://github.com/AuronForge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/AuronForge?style=social)](https://github.com/AuronForge)
 [![GitHub forks](https://img.shields.io/github/forks/AuronForge?style=social)](https://github.com/AuronForge)
 
@@ -23,27 +23,20 @@ Nosso foco é transformar ideias em realidade através de:
 - 🧪 **Soluções personalizadas de software e hardware**
 
 ## 🎯 Missão
-**Forjar o futuro através da tecnologia**, conectando criatividade, inovação e engenharia para gerar soluções únicas e acessíveis.
-
-## 📂 Projetos
-Aqui você vai encontrar:
-- `web/` → projetos web e APIs  
-- `mobile/` → aplicativos móveis  
-- `iot/` → soluções com Arduino, ESP32 e Raspberry  
-- `hardware/` → esquemáticos, protótipos e impressão 3D  
+**Forjar o futuro através da tecnologia**, conectando criatividade, inovação e engenharia para gerar soluções únicas e acessíveis.  
 
 ## 🚀 Roadmap
-- [ ] Publicação do site institucional  
-- [ ] Repositórios de exemplos (Arduino + Web + App)  
-- [ ] Biblioteca própria de componentes  
-- [ ] Cases de automação e IoT  
+- [✅] Publicação do site institucional  
+- [ ] Laboratorios: RFID, IoT, Wireless  
+- [ ] Tangerine Design System  
+- [ ] ForgeMind  
 
 ## 📬 Contato
 - 👤 **Fundador:** José Eduardo Trindade E Marques  
 - 📧 Email: [edu.temarques@gmail.com](mailto:edu.temarques@gmail.com)  
-- 🌐 Website: [www.auronforge.com](http://www.auronforge.com) *(em breve)*  
+- 🌐 Website: [auronforge-site-institucional.vercel.app](https://auronforge-site-institucional.vercel.app/)  
 - 🔗 LinkedIn: [linkedin.com/in/edu-marques29](https://www.linkedin.com/in/edu-marques29/)  
 
 ---
 
-💡 *AuronForge – Onde ideias ganham forma, e tecnologia é forjada todos os dias.*
+💡 *AuronForge – Onde ideias ganham forma, e a tecnologia é forjada todos os dias.*
